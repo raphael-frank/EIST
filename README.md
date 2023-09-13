@@ -7,3 +7,4 @@ Projects share these topics:
 - Testing (Unit, Integration, Mock)
 - Static/Dynamic analysis tools (Infer, Adress Sanitizer)
 - Refactoring
+- Threads, Threadsafety and Parallelism
